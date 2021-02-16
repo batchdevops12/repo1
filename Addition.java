@@ -1,6 +1,6 @@
 package coreJava;
 
-public class Addition { // call by compiler
+public class Addition { // call by compiler and jvm
 
 	int a = 20, b = 10, c; // V.D
 
